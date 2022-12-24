@@ -1,0 +1,6 @@
+framework module Pods_tset4 {
+  umbrella header "Pods-tset4-umbrella.h"
+
+  export *
+  module * { export * }
+}
